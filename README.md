@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamJoe9
 - 👀 I’m interested in web developement
-- 🌱 I’m currently learning Vue js, Vuetify
+- 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on any front end developement project
 - 📫 you can reach me on +2348050402774 or joeakpuru95@gmail.com
 <!---
